@@ -10,6 +10,7 @@ parts:
     - file: topics/games
     - file: topics/images
     - file: topics/podcast          
+    - file: topics/studyguide
     - file: topics/summaries
   - caption: Otaro
     chapters:
