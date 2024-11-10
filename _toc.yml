@@ -6,6 +6,7 @@ root: introduction
 parts:
   - caption: Resources
     chapters:
+    - file: topics/briefdoc
     - file: topics/faq
     - file: topics/games
     - file: topics/images
