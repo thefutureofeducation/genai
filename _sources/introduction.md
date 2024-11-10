@@ -10,14 +10,9 @@ This resource hub is intended to:
 - Provide timely resources in various formats that suit diverse learning preferences.
 - Serve as a collaborative space where educational insights can continue to grow.
 
-## Explore the Resources
-Choose the type of resource that best fits your learning preference:
+## Explore the Resources We Created For You
 
-- **Podcast**: Immerse yourself in an auditory journey that recaps key conversations and highlights from the event. Perfect for those who enjoy learning on the go.
-- **Images**: Visual representations and infographics summarising the main points. Ideal for visual learners who benefit from seeing information in a graphic format.
-- **Summaries**: Concise, text-based overviews of the event’s discussions for those who prefer reading and reflecting.
-- **Interactive Games**: Engage with educational games designed to reinforce key concepts discussed at the event in a fun and interactive manner.
-- **More**: Additional innovative formats to enrich your learning experience. Stay tuned for new and creative resources!
+![Hope and Curiosity](resources/pref.png)
 
 ## Meet Our Team
 This initiative is brought to you by a team committed to making education accessible and engaging for everyone:
