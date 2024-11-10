@@ -24,7 +24,7 @@ This initiative is brought to you by a team committed to making education access
 
 - [Eduardo Oliveira](https://findanexpert.unimelb.edu.au/profile/653031-eduardo-araujo-oliveira)
 - [Kayley Lyons](https://findanexpert.unimelb.edu.au/profile/918571-kayley-lyons) 
-- [Shannon Rios](https://findanexpert.unimelb.edu.au/profile/985603-shannon-rios) 
+- [Shatana Dushyanthen](https://findanexpert.unimelb.edu.au/profile/642166-sathana-dushyanthen) 
 - [Cory dal Ponte](https://medicine.unimelb.edu.au/school-structure/medical-education/research/graduate-research-students/cory-dal-ponte)
 
 We hope these resources support your continued learning journey and inspire new ways of thinking about the future of education. Thank you for being a part of this transformative event!

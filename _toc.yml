@@ -6,9 +6,10 @@ root: introduction
 parts:
   - caption: Resources
     chapters:
-    - file: topics/podcast          
-    - file: topics/images
+    - file: topics/faq
     - file: topics/games
+    - file: topics/images
+    - file: topics/podcast          
     - file: topics/summaries
   - caption: Otaro
     chapters:

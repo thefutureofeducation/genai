@@ -1,21 +1,23 @@
 # Podcast
 
 ## Tool Used
-We created this resource using [Tool Name](link to tool). This tool was chosen for its [brief reason for selection, e.g., intuitive interface, advanced features, etc.].
+We created this resource using [NotebookLM](https://notebooklm.google.com/). This tool was chosen for its intuitive interface and its advanced capabilities in managing and analysing large sets of notes and information, which make it ideal for synthesising key ideas from educational discussions.
 
 ## Generation Prompt
-The prompt we used to create this resource was:
+We did not use any prompt for this example. Here, we just dragged and dropped all PDF files to the tool.
 
-```
-example of prompt to be added here
-```
 
-This prompt was designed to [brief explanation of why this prompt was chosen, e.g., ensure comprehensive coverage of the topic, encourage creativity, etc.].
+## The Resource (Output)
 
-## The Resource
-[Embed or link to the actual resource, e.g., podcast audio, image file, text summary, or game link]
+<audio controls>
+  <source src="resources/podcast.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
 
 ## Reflection on Educational Use
-This type of resource can be a powerful tool for both educators and students. Educators can use [Resource Name] to [explain potential uses, such as summarising key points, enhancing engagement, facilitating deeper learning]. Students, on the other hand, can benefit from [how students can use the resource, e.g., reinforcing their understanding, providing a different perspective, interactive learning experiences].
 
-We believe that resources like this can [insert a vision for the future, e.g., transform traditional learning methods, foster collaboration, bridge learning gaps].
+This type of resource can be a powerful tool for both educators and students. Educators can use NotebookLM to streamline note-taking, extract essential points, and design discussion-based learning around complex topics such as the role of technology in education. This can enhance engagement and facilitate deeper, reflective learning.
+
+For students, this resource offers a way to reinforce understanding through structured summaries and audio discussions, providing alternative perspectives and encouraging active listening. By using NotebookLM in combination with audio resources, students can engage in interactive learning that enhances retention and understanding.
+
+We believe that resources like this can transform traditional learning methods by promoting collaborative exploration and critical engagement. Such tools help bridge learning gaps by making abstract concepts tangible, fostering an environment where both educators and students can thrive in an evolving digital landscape.

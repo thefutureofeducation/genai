@@ -3,7 +3,7 @@
 
 title: UOM - The Future of Education
 author: The University of Melbourne
-logo: resources/logo.png
+logo: resources/logo2.png
 exclude_patterns: ["README.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
 
 
