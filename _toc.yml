@@ -13,6 +13,7 @@ parts:
     - file: topics/podcast          
     - file: topics/studyguide
     - file: topics/summaries
+    - file: topics/themeanalysis
   - caption: Otaro
     chapters:
     - file: topics/vr    
