@@ -3,16 +3,13 @@
 ## Tool Used
 We created this resource using [NotebookLM](https://notebooklm.google.com/). This tool was chosen for its intuitive interface and its advanced capabilities in managing and analysing large sets of notes and information, which make it ideal for synthesising key ideas from educational discussions.
 
-## Generation Prompt
-We did not use any prompt for this example. Here, we just dragged and dropped all PDF files to the tool.
+## Generation Process
+This Podcast was created using NotebookLM, which did not require a specific prompt. The tool automatically extracted and summarised key insights from discussions on the impact of technology, particularly AI, on students' critical thinking skills.
 
 
 ## The Resource (Output)
 
-<audio controls>
-  <source src="resources/podcast.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+[Click here to download the audio file](resources/podcast.wav)
 
 ## Reflection on Educational Use
 
