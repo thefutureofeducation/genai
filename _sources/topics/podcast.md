@@ -7,9 +7,14 @@ We created this resource using [NotebookLM](https://notebooklm.google.com/). Thi
 This Podcast was created using NotebookLM, which did not require a specific prompt. The tool automatically extracted and summarised key insights from discussions on the impact of technology, particularly AI, on students' critical thinking skills.
 
 
-## The Resource (Output)
+## The Resource (Output - Audience, the Future of Education Event - 3mins47secs)
 
 [Click here to download the audio file](resources/podcast.wav)
+
+## The Resource (Output - Experts, the Future of Education Event + Supporting Articles - 30mins43secs)
+
+[Click here to download the audio file](resources/podcastexperts.wav)
+
 
 ## Reflection on Educational Use
 
