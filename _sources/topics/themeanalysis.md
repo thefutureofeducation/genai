@@ -20,6 +20,8 @@ This prompt was designed to capture key themes from the conversation, providing 
 
 ---
 
+![Thematic](resources/thematic.png)
+
 You can access the theme analysis we created for you [here](https://claude.site/artifacts/bdaedcde-ee0e-4e46-a0f7-78b72e675b52)
 
 ---
