@@ -1,15 +1,7 @@
-# GenAI Hands-on Workshop
+# The Future of Education
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-## Purpose
-
-The hands-on workshops are designed to support university staff with the knowledge and tools to integrate generative AI into their teaching practices. This educational initiative aims to enhance AI literacy, foster innovation, and address ethical considerations in the use of responsible AI in the classroom.
-
-## Target Audience
-
-University teachers and educators from various departments, schools, and faculties, irrespective of their prior experience with AI. The program is structured to accommodate a diverse range of disciplines and proficiency levels.
 
 
 ## Contributors ✨

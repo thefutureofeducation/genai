@@ -1,4 +1,4 @@
-# Game - AI Decision Quest
+# Game - AI Decision Quest 
 
 ## Tool Used
 We created this interactive game resource using [ChatGPT](https://chat.openai.com/) and [Claude](https://www.anthropic.com/index/claude). These tools were chosen for their advanced features and ability to collaboratively generate creative and educational content, making them ideal for designing an interactive learning experience.
