@@ -7,14 +7,36 @@ We created this resource using [NotebookLM](https://notebooklm.google.com/). Thi
 This Podcast was created using NotebookLM, which did not require a specific prompt. The tool automatically extracted and summarised key insights from discussions on the impact of technology, particularly AI, on students' critical thinking skills.
 
 
-## The Resource (Output - Audience, the Future of Education Event - 3mins47secs)
+## The Resource (Output - Audience, the Future of Education Event - 16mins49secs)
 
-[Click here to download the audio file](resources/podcast.wav)
+```
+This excerpt from a transcript discusses the potential impact of AI on 
+students' critical thinking skills. The speakers, an educator and an AI 
+chatbot, explore whether AI could be a tool to enhance critical thinking 
+by encouraging skepticism and questioning of information, much like a 
+Socratic dialogue. They acknowledge the risk of AI providing potentially 
+biased or misleading information, but ultimately argue that AI can be a 
+valuable tool for developing critical thinking skills, provided it is used 
+in a way that encourages questioning and healthy skepticism.
+```
+
+[Click here to download the audio file](resources/podcast5.wav)
 
 ## The Resource (Output - Experts, the Future of Education Event + Supporting Articles - 30mins43secs)
 
-[Click here to download the audio file](resources/podcastexperts.wav)
+```
+The provided text explores the importance of critical and creative thinking in 
+learning, specifically within the context of education. The sources highlight 
+various approaches to fostering these skills, including metacognitive strategies, 
+computer-supported collaborative learning (CSCL), and project-based learning. 
+The authors emphasise the interconnectedness of these skills, advocating for a 
+holistic approach to education that nurtures both critical analysis and creative 
+problem-solving. They also explore how technology can be effectively integrated 
+into learning environments to enhance student engagement and support these vital 
+cognitive processes.
+```
 
+[Click here to download the audio file](resources/podcastexperts.wav)
 
 ## Reflection on Educational Use
 

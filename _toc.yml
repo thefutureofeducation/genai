@@ -16,4 +16,5 @@ parts:
     - file: topics/podcast          
     - file: topics/studyguide
     - file: topics/summaries
+    - file: topics/tableofcontents    
     - file: topics/themeanalysis
