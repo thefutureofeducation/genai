@@ -41,6 +41,8 @@ Document 2 advocates for restrictions and media literacy programs
 Document 3 recommends balanced approaches and teacher training
 ```
 
+[Interactive Version of the Summary of Discussion Analysis from Audience is Available Here](https://claude.site/artifacts/99a9d0d5-2c50-4c0a-818a-488986bd321b)
+
 ## About Us
 
 This initiative is brought to you by a team committed to making education accessible and engaging for everyone:
