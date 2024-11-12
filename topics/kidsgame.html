@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Game - Responsible AI for Kids &#8212; UOM - The Future of Education</title>
+    <title>Game - Space Adventure AI (Kids) &#8212; UOM - The Future of Education</title>
   
   
   
@@ -74,8 +74,8 @@
     <link rel="icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Game - AI Learning Tetris" href="tetris.html" />
-    <link rel="prev" title="Game - AI Decision Quest" href="games.html" />
+    <link rel="next" title="Game - Snake AI (Kids)" href="snake.html" />
+    <link rel="prev" title="Game - AI Learning Tetris" href="tetris.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -195,8 +195,9 @@
 <li class="toctree-l1"><a class="reference internal" href="briefdoc.html">Briefing Doc</a></li>
 <li class="toctree-l1"><a class="reference internal" href="faq.html">FAQ</a></li>
 <li class="toctree-l1"><a class="reference internal" href="games.html">Game - AI Decision Quest</a></li>
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Game - Responsible AI for Kids</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tetris.html">Game - AI Learning Tetris</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Game - Space Adventure AI (Kids)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="snake.html">Game - Snake AI (Kids)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="images.html">Images</a></li>
 <li class="toctree-l1"><a class="reference internal" href="podcast.html">Podcast</a></li>
 <li class="toctree-l1"><a class="reference internal" href="studyguide.html">Study Guide</a></li>
@@ -387,7 +388,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Game - Responsible AI for Kids</h1>
+    <h1>Game - Space Adventure AI (Kids)</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -414,8 +415,8 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="game-responsible-ai-for-kids">
-<h1>Game - Responsible AI for Kids<a class="headerlink" href="#game-responsible-ai-for-kids" title="Link to this heading">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="game-space-adventure-ai-kids">
+<h1>Game - Space Adventure AI (Kids)<a class="headerlink" href="#game-space-adventure-ai-kids" title="Link to this heading">#</a></h1>
 <section id="tool-used">
 <h2>Tool Used<a class="headerlink" href="#tool-used" title="Link to this heading">#</a></h2>
 <p>We created this interactive game to teach kids on how to use AI responsibly resource using <a class="reference external" href="https://www.anthropic.com/index/claude">Claude</a>.</p>
@@ -423,13 +424,49 @@ document.write(`
 <section id="generation-prompt">
 <h2>Generation Prompt<a class="headerlink" href="#generation-prompt" title="Link to this heading">#</a></h2>
 <p>The prompt we used to create this resource was:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">UPDATE</span> <span class="n">THIS</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Create</span> <span class="n">an</span> <span class="n">interactive</span> <span class="n">web</span> <span class="n">game</span> <span class="k">for</span> <span class="n">primary</span> <span class="n">school</span> <span class="n">children</span> <span class="n">to</span> <span class="n">learn</span> <span class="n">about</span> <span class="n">responsible</span> <span class="n">AI</span> <span class="n">use</span><span class="o">.</span> <span class="n">The</span> <span class="n">game</span> <span class="n">should</span><span class="p">:</span>
+<span class="mf">1.</span> <span class="n">Be</span> <span class="n">a</span> <span class="n">simple</span> <span class="n">space</span> <span class="n">shooter</span> <span class="n">where</span><span class="p">:</span>
+<span class="o">-</span> <span class="n">Player</span> <span class="n">controls</span> <span class="n">a</span> <span class="n">spaceship</span> <span class="n">at</span> <span class="n">the</span> <span class="n">bottom</span>
+<span class="o">-</span> <span class="n">Friendly</span><span class="o">-</span><span class="n">looking</span> <span class="n">aliens</span> <span class="n">move</span> <span class="n">slowly</span> <span class="kn">from</span> <span class="nn">top</span> <span class="n">to</span> <span class="n">bottom</span>
+<span class="o">-</span> <span class="n">Player</span> <span class="n">can</span> <span class="n">shoot</span> <span class="n">using</span> <span class="n">space</span> <span class="n">bar</span> <span class="ow">or</span> <span class="n">click</span>
+<span class="o">-</span> <span class="n">Movement</span> <span class="n">using</span> <span class="n">arrow</span> <span class="n">keys</span> <span class="ow">or</span> <span class="n">on</span><span class="o">-</span><span class="n">screen</span> <span class="n">buttons</span>
+<span class="o">-</span> <span class="n">Slower</span><span class="o">-</span><span class="n">paced</span> <span class="n">gameplay</span> <span class="n">suitable</span> <span class="k">for</span> <span class="n">children</span>
+<span class="o">-</span> <span class="n">Clear</span><span class="p">,</span> <span class="n">colorful</span> <span class="n">visuals</span>
+<span class="o">-</span> <span class="n">Score</span> <span class="n">tracking</span> <span class="ow">and</span> <span class="n">levels</span>
+<span class="mf">2.</span> <span class="n">Include</span> <span class="n">educational</span> <span class="n">prompts</span> <span class="n">about</span> <span class="n">AI</span> <span class="n">that</span> <span class="n">appear</span> <span class="n">when</span> <span class="n">hitting</span> <span class="n">targets</span><span class="p">,</span> <span class="n">covering</span><span class="p">:</span>
+<span class="o">-</span> <span class="n">AI</span> <span class="n">safety</span> <span class="p">(</span><span class="ow">not</span> <span class="n">sharing</span> <span class="n">personal</span> <span class="n">information</span><span class="p">)</span>
+<span class="o">-</span> <span class="n">Critical</span> <span class="n">thinking</span> <span class="p">(</span><span class="n">fact</span><span class="o">-</span><span class="n">checking</span> <span class="n">AI</span> <span class="n">information</span><span class="p">)</span>
+<span class="o">-</span> <span class="n">Creative</span> <span class="n">use</span> <span class="p">(</span><span class="n">using</span> <span class="n">AI</span> <span class="k">for</span> <span class="n">inspiration</span> <span class="ow">not</span> <span class="n">copying</span><span class="p">)</span>
+<span class="o">-</span> <span class="n">Emotional</span> <span class="n">awareness</span> <span class="p">(</span><span class="n">handling</span> <span class="n">AI</span> <span class="n">interactions</span><span class="p">)</span>
+<span class="o">-</span> <span class="n">Responsible</span> <span class="n">gaming</span>
+<span class="o">-</span> <span class="n">Digital</span> <span class="n">citizenship</span>
+<span class="o">-</span> <span class="n">Help</span><span class="o">-</span><span class="n">seeking</span> <span class="n">behavior</span>
+<span class="o">-</span> <span class="n">Personal</span> <span class="n">boundaries</span> <span class="k">with</span> <span class="n">AI</span>
+<span class="o">-</span> <span class="n">Kind</span> <span class="n">communication</span>
+<span class="o">-</span> <span class="n">AI</span> <span class="n">limitations</span>
+<span class="mf">3.</span> <span class="n">Each</span> <span class="n">educational</span> <span class="n">prompt</span> <span class="n">should</span> <span class="n">have</span><span class="p">:</span>
+<span class="o">-</span> <span class="n">A</span> <span class="n">kid</span><span class="o">-</span><span class="n">friendly</span> <span class="n">scenario</span>
+<span class="o">-</span> <span class="n">Two</span> <span class="n">answer</span> <span class="n">choices</span> <span class="p">(</span><span class="n">one</span> <span class="n">correct</span><span class="p">,</span> <span class="n">one</span> <span class="n">incorrect</span><span class="p">)</span>
+<span class="o">-</span> <span class="n">Simple</span><span class="p">,</span> <span class="n">encouraging</span> <span class="n">explanations</span>
+<span class="o">-</span> <span class="n">Emoji</span> <span class="n">use</span> <span class="ow">in</span> <span class="n">feedback</span>
+<span class="o">-</span> <span class="n">Positive</span> <span class="n">reinforcement</span>
+<span class="o">-</span> <span class="n">Age</span><span class="o">-</span><span class="n">appropriate</span> <span class="n">language</span>
+<span class="o">-</span> <span class="n">Real</span><span class="o">-</span><span class="n">life</span> <span class="n">examples</span> <span class="n">kids</span> <span class="n">can</span> <span class="n">relate</span> <span class="n">to</span>
+<span class="mf">4.</span> <span class="n">Technical</span> <span class="n">requirements</span><span class="p">:</span>
+<span class="o">-</span> <span class="n">Built</span> <span class="n">using</span> <span class="n">React</span>
+<span class="o">-</span> <span class="n">Canvas</span> <span class="k">for</span> <span class="n">game</span> <span class="n">graphics</span>
+<span class="o">-</span> <span class="n">Simple</span> <span class="n">controls</span>
+<span class="o">-</span> <span class="n">Responsive</span> <span class="n">design</span>
+<span class="o">-</span> <span class="n">Clear</span> <span class="n">feedback</span> <span class="n">system</span>
+<span class="o">-</span> <span class="n">High</span> <span class="n">score</span> <span class="n">tracking</span>
+<span class="o">-</span> <span class="n">Easy</span> <span class="n">restart</span> <span class="n">option</span>
+<span class="n">Please</span> <span class="n">implement</span> <span class="n">this</span> <span class="k">as</span> <span class="n">an</span> <span class="n">educational</span> <span class="n">game</span> <span class="n">suitable</span> <span class="k">for</span> <span class="n">primary</span> <span class="n">school</span> <span class="n">children</span> <span class="k">with</span> <span class="n">emphasis</span> <span class="n">on</span> <span class="n">fun</span> <span class="n">gameplay</span> <span class="k">while</span> <span class="n">learning</span> <span class="n">about</span> <span class="n">responsible</span> <span class="n">AI</span> <span class="n">use</span><span class="o">.</span>
 </pre></div>
 </div>
 <section id="the-resource-output-from-claude">
 <h3>The Resource (Output from Claude)<a class="headerlink" href="#the-resource-output-from-claude" title="Link to this heading">#</a></h3>
 <p><img alt="Game for Kids" src="../_images/kidsgame.png" /></p>
-<p>You can access the Tetris game we created for you <a class="reference external" href="https://claude.site/artifacts/b648b005-5294-452d-b0b7-6a45c62a5108">here</a></p>
+<p>You can access the Space Adventure game we created for you <a class="reference external" href="https://claude.site/artifacts/b648b005-5294-452d-b0b7-6a45c62a5108">here</a></p>
 </section>
 </section>
 <section id="reflection-on-educational-use">
@@ -469,20 +506,20 @@ document.write(`
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="games.html"
+       href="tetris.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Game - AI Decision Quest</p>
+        <p class="prev-next-title">Game - AI Learning Tetris</p>
       </div>
     </a>
     <a class="right-next"
-       href="tetris.html"
+       href="snake.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Game - AI Learning Tetris</p>
+        <p class="prev-next-title">Game - Snake AI (Kids)</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
