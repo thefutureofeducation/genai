@@ -1,4 +1,4 @@
-# Games
+# Game - AI Decision Quest
 
 ## Tool Used
 We created this interactive game resource using [ChatGPT](https://chat.openai.com/) and [Claude](https://www.anthropic.com/index/claude). These tools were chosen for their advanced features and ability to collaboratively generate creative and educational content, making them ideal for designing an interactive learning experience.
@@ -96,6 +96,8 @@ This game encourages students to engage deeply with technology’s role in educa
 
 
 ### The Resource (Output from Claude)
+
+![Quest](resources/quest.png)
 
 You can access the game we created for you [here](https://claude.site/artifacts/0047ab93-f3ab-4d50-b27d-0f26b8c6a754)
 

@@ -9,6 +9,8 @@ parts:
     - file: topics/briefdoc
     - file: topics/faq
     - file: topics/games
+    - file: topics/kidsgame    
+    - file: topics/tetris    
     - file: topics/images
     - file: topics/podcast          
     - file: topics/studyguide
