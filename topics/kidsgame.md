@@ -50,7 +50,7 @@ Please implement this as an educational game suitable for primary school childre
 
 ![Game for Kids](resources/kidsgame.png)
 
-You can access the Space Adventure game we created for you [here](https://claude.site/artifacts/b648b005-5294-452d-b0b7-6a45c62a5108)
+You can access the Space Adventure game we created for you [here](https://claude.site/artifacts/b648b005-5294-452d-b0b7-6a45c62a5108) 
 
 ## Reflection on Educational Use
 Resources like this can play a transformative role in education by shifting traditional, passive learning methods towards interactive, student-centered experiences. By embedding critical thinking skills directly into the gameplay, the game not only fosters engagement but also equips students with strategies for responsible technology use, preparing them for a future where they can navigate the digital landscape thoughtfully and effectively.

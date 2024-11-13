@@ -44,7 +44,7 @@ In 25 minutes, we applied various AI tools to transform these insights into mult
 ---
 ## Summary of Discussion Analysis from Audience (Claude)
 
-![Dicussions](resources/discussions.png)
+[![Dicussions](resources/discussions.png 'Discussions')](resources/discussions2.png)
 
 ```
 Common Threads across all documents:
