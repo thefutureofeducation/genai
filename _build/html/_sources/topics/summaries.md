@@ -25,7 +25,7 @@ This prompt was designed to capture the nuanced perspectives shared in the discu
 ## The Resource (Output)
 
 > Note:
-> The following section is the direct output generated from the applied prompt. It reflects a structured summary of the transcribed conversations.
+> The following section is the direct output generated from the applied prompt. 
 
 ---
 

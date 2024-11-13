@@ -12,6 +12,7 @@ parts:
     - file: topics/tetris        
     - file: topics/kidsgame    
     - file: topics/snake    
+    - file: topics/heygen
     - file: topics/images
     - file: topics/podcast          
     - file: topics/studyguide
