@@ -55,5 +55,12 @@ the script.
 1. Download the final video.
 2. Share the video across platforms or presentations as needed.
 
+
+## The Resource (Output)
+
+![Intro](../resources/intro.png)
+
+[Access it here](../resources/digitaltwin.mp4)
+
 ## Reflection on Educational Use
 GenAI avatars offer transformative potential for education by creating more engaging, accessible, and personalised learning experiences. Teachers could use avatars to deliver interactive lectures, making complex topics more relatable, especially for younger audiences. Students, too, can benefit by using avatars to create presentations, turning assignments into immersive and interactive experiences. This technology supports inclusive learning by enabling multi-language instruction, reaching diverse learners with content tailored to their needs. With AI-generated avatars, classrooms can evolve into dynamic spaces where learning is both interactive and customisable.
