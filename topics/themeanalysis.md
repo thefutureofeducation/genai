@@ -22,7 +22,7 @@ This prompt was designed to capture key themes from the conversation, providing 
 
 ![Thematic](resources/thematic.png)
 
-You can access the theme analysis we created for you [here](https://claude.site/artifacts/bdaedcde-ee0e-4e46-a0f7-78b72e675b52)
+You can access the theme analysis we created for you [here](https://claude.site/artifacts/6f3348ce-9637-4d55-b991-474e358f0720)
 
 ---
 
