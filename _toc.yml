@@ -20,3 +20,6 @@ parts:
     - file: topics/summaries
     - file: topics/tableofcontents    
     - file: topics/themeanalysis
+  - caption: Samples
+    chapters:
+    - file: topics/transcripts    
